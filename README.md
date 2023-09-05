@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops,Aws,Django**
 
-- 👯 I’m Core team member of **CSI** Haldia Institute of technology
+- 👯 I was Core team member of **CSI** Haldia Institute of technology
 
 - 👨‍💻 All of my projects are available at [github](github)
 
