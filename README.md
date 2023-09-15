@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuddhi Jain</h1>
-<h3 align="center">A Django Developer from India</h3>
+<h3 align="center">A DevOps Developer from India</h3>
 
 - 🔭 I’m currently working on **open world projects**
 
