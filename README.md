@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **open world projects**
 
-- 🌱 I’m currently learning **Devops,Aws,Django**
+- 🌱 I’m currently learning **Devops,Aws, MERN**
 
 - 👯 I was Core team member of **CSI** Haldia Institute of technology
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **C, Java, Python,Django,Devops**
+- 💬 Ask me about **C, Java, MERN ,Devops**
 
 - 📫 How to reach me ****
 
